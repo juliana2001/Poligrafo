@@ -14,10 +14,10 @@
 POLIGRAFO-MAIN/
 │
 ├── implementation/
-│   ├── audios/            # Audios recolectados del protocolo (verdad/mentira)
-│   ├── dataset.csv        # Dataset final con features + etiqueta
-│   ├── dataset.xlsx       # Versión en Excel del dataset
-│   └── notebook2.ipynb    # Notebook principal del proyecto
+│   ├── audios/            #Audios recolectados del protocolo (verdad/mentira)
+│   ├── dataset.csv        #Dataset final con features + etiqueta
+│   ├── dataset.xlsx       #Versión en Excel del dataset
+│   └── notebook2.ipynb    #Notebook principal del proyecto
 │
 └── .gitignore
   </pre>
@@ -64,7 +64,7 @@ POLIGRAFO-MAIN/
 
   <h3>Pasos</h3>
   <ol>
-    <li>Abrir Jupyter o VSCode:</li>
+    <li>Abrir Jupyter, collab o VSCode:</li>
   </ol>
   <pre><code>jupyter notebook</code></pre>
   <ol start="2">
